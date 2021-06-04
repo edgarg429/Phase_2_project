@@ -37,6 +37,8 @@ A notebook with my Exploratory Data Analysis can be found as `EDA_and_Modeling` 
 ## Navigation
 -EDA_and_Modeling.ipynb: Final notebook containing my finished work and discussions 
 
+-Predict_hold.ipynb: Notebook used to make final predictions
+
 -kc_house_data_test_features.csv: File containing data sets used and tested on (/Data)
 
 -kc_house_data_train.db: File containg dataset used for final predictions (/Data)
@@ -44,3 +46,7 @@ A notebook with my Exploratory Data Analysis can be found as `EDA_and_Modeling` 
 -README.md: Synopsis containing my key findings
 
 -Housing_EDA_pdf.pdf: The presentation of significant features
+
+-columns.pickle: file containing columns names used in model
+
+-model.pickle: File containing Linear Regression model used to make final predictions

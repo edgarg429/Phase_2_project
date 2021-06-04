@@ -12,7 +12,7 @@ My research seeks to provide predictions into housing prices for the Kings Count
 
 ### Data 
 
-Datasets used can be found in the repository in `kc_house_data_train.csv` which was provided by The Flatiron School.
+Datasets used can be found in the repository in `data` folder which was provided by The Flatiron School.
 
 
 ### Methods
@@ -29,5 +29,8 @@ Used various statistical test to evaluate changes in features and whether they w
 
 #### Houses built in the 1970s tended to be valued lower than houses build earlier or later
 
-### Conclusion
-A notebook with my Exploratory Data Analysis can be found as `EDA_and_Modeling` as well as the statistical testing amd model evaluation
+### Conclusions
+While sqft_living, zipcode, and grade of a house greatly affect the price of a house, there are a number of other factors that were not considered in the research, such as proximity to schools, commerce centers, and land marks or crime rate of neighborhood. Thes factors should be considered as they too might has an unknown effect on housing price.
+
+A notebook with my Exploratory Data Analysis can be found as `EDA_and_Modeling` as well as the statistical testing and model evaluation
+

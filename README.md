@@ -1,5 +1,5 @@
 
-# Kings County Housing Anaylysis
+# Kings County Housing Analysis
 
 ## A Phase 1 Project
 
@@ -17,8 +17,8 @@ Datasets used can be found in the repository in `data` folder which was provided
 
 ### Methods
 
-Created and changed certain features in the data set to uncover correalation between price of house and the features of a house.
-Used various statistical test to evaluate changes in features and whether they were significant or not.
+Created and changed certain features in the dataset to uncover correalation between price of house and the features of a house.
+Used various statistical tests to evaluate changes in features and whether they were significant or not.
 
 ### Results
 #### The zipcode in which the house is located tend to have a high effect on the price of the house
@@ -34,3 +34,13 @@ While sqft_living, zipcode, and grade of a house greatly affect the price of a h
 
 A notebook with my Exploratory Data Analysis can be found as `EDA_and_Modeling` as well as the statistical testing and model evaluation
 
+## Navigation
+-EDA_and_Modeling.ipynb: Final notebook containing my finished work and discussions 
+
+-kc_house_data_test_features.csv: File containing data sets used and tested on (/Data)
+
+-kc_house_data_train.db: File containg dataset used for final predictions (/Data)
+
+-README.md: Synopsis containing my key findings
+
+-Housing_EDA_pdf.pdf: The presentation of significant features
